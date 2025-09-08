@@ -1,6 +1,7 @@
 ## **Alivraria**
 
 1. Resumo:
+   
    A aplicação tem como foco um serviço personalizado de recomendação e venda de livros, além do desenvolvimento de um ambiente virtual para discussão sobre leituras e histórias alternativas. Além disso será
 
 2. Principais dores:
@@ -10,11 +11,12 @@
    
 3. Modelo de negócio:
    
-5. Requisitos de alto nível:
-6. Tecnologias que serão usadas:
-7. Integrantes e Responsáveis:
-     -Mobile? Sugestão Expo
-     -Backend? Sugestão Java (BootCamp)
-    -Frontend? Sugestão Angular (BootCamp)
-    -Nuvem? Sugestão AWS (Cursos AWS Academy)
-    -Banco de Dados?
+4. Requisitos de alto nível:
+5. Tecnologias que serão usadas:
+6. Integrantes e Responsáveis:
+   
+     - Mobile? Sugestão Expo
+     - Backend? Sugestão Java (BootCamp)
+    - Frontend? Sugestão Angular (BootCamp)
+    - Nuvem? Sugestão AWS (Cursos AWS Academy)
+    - Banco de Dados?
